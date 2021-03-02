@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+UU# This is a basic workflow to help you get started with Actions
 
 name: CI
 
@@ -47,25 +47,95 @@ jobs:
           echo test, and deploy your project.
 
 
-for(i=0; i<=5000; i+=50
-){
+
+<!DOCTYPE HTML>
+<html>
   
-
-
-
-
-   ctx.strokeRect(i,300,10,10)
+  <head><title></title>
+  <link rel="stylesheet" href="meneg.css">
+  
+  </head>
+  
+  
+  <body bgcolor="#c3dad8">
+   <center class="woi"><h1>selamat datang di welok pay</h1></center>
+   <center><a href="black.html">pink mode</a></center>
    
-}
+   <p>terimakasih sudah mempercayai welok pay kamulah yang akan membantu andhik pay akan berkembang terimalasih sekali lagi  :)</p>
+   <br><br>
+   <center><h3>cara:</h3></center>
+   <ul type="square" class="hei">
+     <li>tekan tombol mulai di bawah ini</li>
+     <li>isi saldo anda terlebih dahulu bisa melalui alfamart,indomart,bank usahakan pakai titik dan rupiah</li>
+     <li>lalu tekan bayar</li>
+     <li>masukan kode qr/nama toko</li>
+     <li>masukkan nominal yang akan dibayarkan</li>
+     <li>lalu tekan pay</li>
+     
+   </ul>
+   <br><br>
+   <center><h1><a href="#bagian2">mulai</a></h1></center>
+   <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <table border="1" class="bro">
+   <tr>
+  <td>
+<center><h1 id="bagian2">pengisian saldo</h1></center></td>
+</tr>
+</table>
+<br>
+<br>
+<label>PILIH BANK DAN TOKO</label>
+  <select>
+    <option>isi saldo</option>
+    <option>alfamart</option>
+    <option>indomart</optio>
+    <option>bri</option>
+   <option>bca</option>
+   <option>mandiri</option>
+   </select>
+   
+   <br><br>
+   <form>
+     <label>masukkan nominal:</label><input type="text">
+     <table border="1" class="cuy">
+       <tr>
+         <td>
+     <center><h1><a href="#bagian3">bayar</a></h1></center>
+     </td>
+       </tr>
+       </table>
+ 
+ 
+   </form>
+   
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <center><h1 id="bagian3">SELAMAT BERBELANJA</h1></center>
+<ul type="circle">
+  <li>masukkan kode QR <input type="text"></li>
+  <li>masukkan nama toko <input type="text"></li>
+</ul>
+<br>
+<center>
+  <form>
+    <label>masukkan harga</label><input type="text">
+  </form>
+</center>
+<center><h1> <a href="#bagian4">PAY</a></h1></center>
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br><br>
+ <center><h1 id="bagian4">(: THANKYOU :)</h1></center>
+ <marquee behavior=" " direction="left"><h1 class="brup">$$$$$$$$$$$$$$$</h1></marquee>
 
 
-function pilih(){
-  confirm("buat?")
-  for(a=0; a<=300; a+=30){
-    ctx.strokeRect(100,a,10,10)
-  }
-}
-
+   
+  </body>
+</html>
 
 function choice(){
   confirm("buat")
